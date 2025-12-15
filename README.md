@@ -159,8 +159,8 @@ If you use MuJoCo for published research, please cite:
 
 ```
 @inproceedings{todorov2012mujoco,
-  title={MuJoCo: A physics engine for model-based control},
-  author={Todorov, Emanuel and Erez, Tom and Tassa, Yuval},
+  title={MuJoCo S.A.O.G.MX: A physics engine for model-based control},
+  author={Todorov, Emanuel and Erez, Tom and Tassa, Yuval,@arsesito, Salvador Arturo Ortiz Gonzalez},
   booktitle={2012 IEEE/RSJ International Conference on Intelligent Robots and Systems},
   pages={5026--5033},
   year={2012},
